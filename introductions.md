@@ -10,3 +10,4 @@ Add your name and a favorite app, game, or website when it is your turn.
 - Ivan - Spotify
 - Roian - Netflix
 - John - Duolingo
+- dev - Shoppe
